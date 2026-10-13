@@ -19,3 +19,8 @@ Thumbs.db
 
 # Claude Code local config
 .claude/
+
+# Resultados de pruebas (Playwright) y caché incremental de TypeScript
+test-results/
+playwright-report/
+*.tsbuildinfo
